@@ -7,7 +7,10 @@
 ### 作者相关仓库
 
 - [deepseek-harness](https://github.com/xianyu110/deepseek-harness) - DeepSeek Harness 主项目的代码镜像，包含 Web、TUI、桌面端、插件系统和开发文档。[官网](https://deepseek.com/harness)
-- [deepseek-harness-orange-book](https://github.com/xianyu110/deepseek-harness-orange-book) - DeepSeek Harness 橙皮书，收录系统提示词、启动配置、原始会话日志、PTC 实测和扩展包考古资料，并提供 PDF、EPUB、HTML 等格式。
+
+### 第三方说明书
+
+- [deepseek-harness-orange-book](https://github.com/xianyu110/deepseek-harness-orange-book) - 第三方 DeepSeek Harness 橙皮书，收录系统提示词、启动配置、原始会话日志、PTC 实测和扩展包考古资料，并提供 PDF、EPUB、HTML 等格式。
 
 ### UI 与桌面
 
