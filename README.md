@@ -11,6 +11,7 @@
 ### 第三方说明书
 
 - [deepseek-harness-orange-book](https://github.com/xianyu110/deepseek-harness-orange-book) - 第三方 DeepSeek Harness 橙皮书，收录系统提示词、启动配置、原始会话日志、PTC 实测和扩展包考古资料，并提供 PDF、EPUB、HTML 等格式。
+- [kuangre123/deepseek-harness-book wiki](https://github.com/kuangre123/deepseek-harness-book/wiki) - DeepSeek Harness 的 Wiki 版使用手册与知识库。
 
 ### UI 与桌面
 
