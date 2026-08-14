@@ -21,7 +21,8 @@
 - [dsh-openpencil](https://github.com/xianyu110/dsh-openpencil) - OpenPencil 设计预览和编辑插件。[官网](https://op.zseven.tech)
 - [dsh-visualize](https://github.com/xianyu110/dsh-visualize) - 在对话内生成交互式 HTML 卡片。
 - [dsh-genui](https://github.com/xianyu110/dsh-genui) - 在回复中渲染图表、表单、Mermaid 和 3D UI。
-- [deepseek-harness-desktop](https://github.com/xianyu110/deepseek-harness-desktop) - 面向 macOS 和 Windows 的桌面端。[官网](https://deepseekdesktop.com)
+- [xianyu110/deepseek-harness-desktop](https://github.com/xianyu110/deepseek-harness-desktop) - 面向 macOS 和 Windows 的桌面端。[官网](https://deepseekdesktop.com)
+- [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) - 为 DeepSeek Harness 生态打造的原生桌面应用，支持自动启动和管理本地服务、系统托盘驻留，适配 macOS 和 Windows。
 - [oh-dsh](https://github.com/xianyu110/oh-dsh) - TUI、桌面端和 Web UI 一体化社区发行版。
 - [whale-girl](https://github.com/xianyu110/whale-girl) - DSH Web GUI 桌面宠物。
 
@@ -40,6 +41,7 @@
 - [dsh-auto-continue](https://github.com/xianyu110/dsh-auto-continue) - 请求中断后自动发送“继续”。
 - [dsh-github](https://github.com/xianyu110/dsh-github) - GitHub PR、Issue 和后台审查，写操作需要人工批准。
 - [deepseek-harness-acp](https://github.com/xianyu110/deepseek-harness-acp) - DeepSeek Harness 的 ACP 服务实现。
+- [thinkany-ai/dscode](https://github.com/thinkany-ai/dscode) - 本地优先的多模型编码 Agent，默认使用 DeepSeek，并支持 Codex、OpenAI、Anthropic、OpenRouter 等。
 
 ### 资料与生态目录
 
