@@ -22,6 +22,7 @@
 - [dsh-openpencil](https://github.com/xianyu110/dsh-openpencil) - OpenPencil 设计预览和编辑插件。[官网](https://op.zseven.tech)
 - [dsh-visualize](https://github.com/xianyu110/dsh-visualize) - 在对话内生成交互式 HTML 卡片。
 - [dsh-genui](https://github.com/xianyu110/dsh-genui) - 在回复中渲染图表、表单、Mermaid 和 3D UI。
+- [dsh-context](https://github.com/bowenliang123/dsh-context) - 上下文洞察面板：一眼看清模型上下文窗口的组成与变化——构成对照窗口大小、按请求历史趋势、压缩/注入事件、消息级 token 统计。
 - [xianyu110/deepseek-harness-desktop](https://github.com/xianyu110/deepseek-harness-desktop) - 面向 macOS 和 Windows 的桌面端。[官网](https://deepseekdesktop.com)
 - [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) - 为 DeepSeek Harness 生态打造的原生桌面应用，支持自动启动和管理本地服务、系统托盘驻留，适配 macOS 和 Windows。
 - [oh-dsh](https://github.com/xianyu110/oh-dsh) - TUI、桌面端和 Web UI 一体化社区发行版。
