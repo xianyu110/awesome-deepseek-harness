@@ -63,26 +63,25 @@
 
 以下条目由 GitHub Actions 根据 `dsh-plugin` Topic 或 `deepseek-harness` 搜索结果自动维护。
 
-- [edison7009/EchoBird](https://github.com/xianyu110/EchoBird) - One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), DeepSeek Harness, Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI)…（★ 3038；来源：dsh-plugin）[官网](https://echobird.ai/)
-- [dsh-market/dsh-market](https://github.com/xianyu110/dsh-market) - The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场（★ 475；来源：dsh-plugin + deepseek-harness）[官网](https://dshmarket.com/)
-- [cxyfreedom/website-hot-hub](https://github.com/xianyu110/website-hot-hub) - 记录 36Kr、bilibili、GitHub、抖音、掘金、微信读书平台从 2023-10-25 日至今的热点榜。每小时抓取一次数据，按天归档。非当年数据归档到 Releases 中（★ 395；来源：deepseek-harness）
-- [ysr666/dsh-vision-router](https://github.com/xianyu110/dsh-vision-router) - Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, scree…（★ 348；来源：dsh-plugin + deepseek-harness）
-- [drewnekota/cetus](https://github.com/xianyu110/cetus) - One macOS app for Claude Code, Codex, and every agent runtime you use — scheduled runs, global hotkey launcher, per-run git worktrees, one review board.（★ 115；来源：dsh-plugin）
-- [RunhuaHuang/VisionPower](https://github.com/xianyu110/VisionPower) - VisionPower: portable image understanding MCP server for Codex, Claude Desktop, Cursor, and other agents.（★ 61；来源：deepseek-harness）
-- [ningbainb/deepseek-harness-desktop](https://github.com/xianyu110/deepseek-harness-desktop-ningbainb) - Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.（★ 55；来源：dsh-plugin）[官网](https://ningbainb.github.io/deepseek-harness-desktop/)
-- [Ychris12138/dsh-usage-stats](https://github.com/xianyu110/dsh-usage-stats) - Token usage heatmap, per-model breakdowns, and DeepSeek account balance for the DeepSeek Harness Web GUI (dsh web).（★ 46；来源：dsh-plugin）
-- [agentskillexchange/skills](https://github.com/xianyu110/skills) - Curated, trusted open catalog of AI agent skills for OpenClaw, Claude Code, Codex, GitHub Copilot, Gemini, Cursor, MCP, LangChain, and more. Browse, install, and verify reusable a…（★ 28；来源：deepseek-harness）[官网](https://agentskillexchange.com/)
-- [linny006/skills-tracker](https://github.com/xianyu110/skills-tracker) - Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend（★ 18；来源：deepseek-harness）
-- [2BingLing/dsh-market](https://github.com/xianyu110/dsh-market-2bingling) - DeepSeek Harness 插件市场 · 持续收录 1500+ DSH 插件：中文搜索 + 实用五维评分 + 一键安装。Web 版与 DSH 侧边栏插件双形态。Plugin marketplace for DeepSeek Harness: 1500+ plugins, Chinese search, 5-dim scoring, one-click…（★ 16；来源：dsh-plugin）[官网](https://dsh.market/)
-- [Fishsb/dsh-prompt-enhancer](https://github.com/xianyu110/dsh-prompt-enhancer) - DeepSeek Harness DSH 提示词增强插件：✨ 一键优化草稿，增强提示词。（★ 10；来源：dsh-plugin + deepseek-harness）
-- [CH4ACKO3/dsh-harmony](https://github.com/xianyu110/dsh-harmony) - A library for patching, replacing and decorating dsh plugin during runtime（★ 9；来源：dsh-plugin）[官网](https://www.npmjs.com/package/dsh-harmony)
-- [helloHupc/dsh-plugin-hub](https://github.com/xianyu110/dsh-plugin-hub-hellohupc) - DSH 插件聚合站:全网 DeepSeek Harness 插件聚合检索,多源自动去重分类,每小时刷新 | https://dsh-plugin-hub.hupc.site（★ 8；来源：deepseek-harness）
-- [zhijun-dai/Catppuccin-dsh-theme](https://github.com/xianyu110/Catppuccin-dsh-theme) - 🐱 Soothing pastel theme for DeepSeek Harness（★ 7；来源：dsh-plugin）[官网](https://www.npmjs.com/package/dsh-catppuccin)
-- [maxwell-feng/dsh-windows-ocr](https://github.com/xianyu110/dsh-windows-ocr) - 未提供项目描述（★ 6；来源：dsh-plugin）
-- [cxyfreedom/v2ex-hot-hub](https://github.com/xianyu110/v2ex-hot-hub) - 记录v2ex热议话题，每小时更新，按天归档。（★ 6；来源：deepseek-harness）
-- [HarcoChen/dsh-vsc-integration](https://github.com/xianyu110/dsh-vsc-integration) - Deepseek-Harness Vscode Integration（★ 5；来源：dsh-plugin + deepseek-harness）
-- [dfkai/dsh-board](https://github.com/xianyu110/dsh-board) - DeepSeek Harness 侧栏用量与成本面板：官方峰谷计价 · 1M 上下文 · 词勋段位 · 成就与热力图（★ 4；来源：dsh-plugin + deepseek-harness）
-- [DoggyHU/dsh4vscode](https://github.com/xianyu110/dsh4vscode) - DSH Chat for VS Code — DeepSeek Harness chat windows inside VS Code (OpenCode-style independent sessions, model auto-routing)（★ 4；来源：dsh-plugin）
+- [nexu-io/open-design](https://github.com/xianyu110/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landin…（★ 87356；来源：dsh-plugin）[官网](https://open-design.ai/)
+- [yigitkonur/awesome-herdr](https://github.com/xianyu110/awesome-herdr) - A curated guide to the Herdr ecosystem: tools, workflows, configs, clients, skills, and integrations.（★ 127；来源：deepseek-harness）
+- [xingj404-lab/dsh-desktop](https://github.com/xianyu110/dsh-desktop) - deepseek harness desktop（★ 60；来源：deepseek-harness）[官网](https://dsh.clawloop.app/)
+- [kingOfSoySauce/dsh-liang-skin](https://github.com/xianyu110/dsh-liang-skin) - DeepSeek Harness 滑动变阻器皮肤（★ 54；来源：dsh-plugin）
+- [beancookie/awesome-dsh-plugin](https://github.com/xianyu110/awesome-dsh-plugin-beancookie) - Awesome DeepSeek Harness (DSH) Plugin（★ 49；来源：dsh-plugin + deepseek-harness）[官网](https://beancookie.github.io/awesome-dsh-plugin/)
+- [whyihaveyou/dsh-suite](https://github.com/xianyu110/dsh-suite) - The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and scaffolder. DSH 插件活目录：每小时刷新，每日兼容实测，内置插件商店与脚手架。（★ 37；来源：dsh-plugin）[官网](https://whyihaveyou.github.io/dsh-suite/)
+- [Mars-Sea/dsh-commandcode-provider](https://github.com/xianyu110/dsh-commandcode-provider) - Unofficial DeepSeek Harness LLM provider plugin for Command Code: live model catalog, reasoning-effort support, Models-page card. Ported from pi-commandcode-provider (MIT).（★ 30；来源：dsh-plugin + deepseek-harness）
+- [linny006/trending-claude-skills](https://github.com/xianyu110/trending-claude-skills) - Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes（★ 29；来源：deepseek-harness）
+- [N0zoM1z0/th08](https://github.com/xianyu110/th08) - Source reconstruction of Touhou Eiyashou (TH08) 1.00d（★ 24；来源：dsh-plugin）
+- [linny006/awesome-agent-skills](https://github.com/xianyu110/awesome-agent-skills) - Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a（★ 23；来源：deepseek-harness）
+- [YELEBAI/dsh-plugin-marketplace](https://github.com/xianyu110/dsh-plugin-marketplace) - Verified plugin marketplace and autonomous registry for DeepSeek Harness（★ 18；来源：dsh-plugin）
+- [zhuiyueya/dsh-im-gateway](https://github.com/xianyu110/dsh-im-gateway) - 把 dsh agent 接入微信、飞书等 20+ 聊天平台的聚合网关插件 | Aggregate IM gateway for DeepSeek Harness (dsh): connect your agents to WeChat, Feishu, Telegram, Discord & 20+ chat platforms（★ 18；来源：dsh-plugin）
+- [yu-xin-c/agent-unpacked](https://github.com/xianyu110/agent-unpacked) - Stellar鱼的 Agent 源码拆解教程：DSH、PI Agent 与 nanobot（★ 15；来源：deepseek-harness）
+- [white0dew/awesome-dsh-plugins](https://github.com/xianyu110/awesome-dsh-plugins-white0dew) - Awesome DSH Plugins: a public GitHub directory for DeepSeek Harness plugins, DSH plugins, install commands, and ecosystem discovery.（★ 10；来源：dsh-plugin）[官网](https://dsh.reshub.vip/)
+- [skymecode/deepseek-harness-for-vscode](https://github.com/xianyu110/deepseek-harness-for-vscode) - deepseek-harness for vscode .This is a community project, and we welcome your valuable feedback!（★ 10；来源：dsh-plugin）[官网](https://marketplace.visualstudio.com/items?itemName=skymecode.deepseek-harness-for-vscode)
+- [chaojixinren/dsh-reviewer-bot](https://github.com/xianyu110/dsh-reviewer-bot) - 原生 DeepSeek Harness 插件形态的代码评审机器人：跨代码平台、规则可插拔、可本地重放。（★ 9；来源：dsh-plugin + deepseek-harness）
+- [HuanLinOTO/dsh-plugin-ya-workspace-sidebar](https://github.com/xianyu110/dsh-plugin-ya-workspace-sidebar) - DSH Web 工作区侧栏替代，顶部全局最近会话 + Workspace→Session 二级菜单 + 面包屑 | DSH Web workspace sidebar replacement: top global recent sessions + Workspace→Session two-level menu + breadcrumbs（★ 8；来源：dsh-plugin + deepseek-harness）
+- [linny006/llm-agents-radar](https://github.com/xianyu110/llm-agents-radar) - Live-updating index of LLM agent frameworks shipping on GitHub, refreshed every 15 minutes（★ 8；来源：deepseek-harness）
+- [JUANWANG-BUAA/dsh-full-remote](https://github.com/xianyu110/dsh-full-remote) - dsh-plugin: Fix DeepSeek Harness 403s over tunnels. Token-gated reverse proxy restores settings.* / credentials.* / host.listDirectory remotely. Per-device sessions, WebSocket/SSE…（★ 7；来源：dsh-plugin）
 <!-- END DEEPSEEK-HARNESS-AUTO-DISCOVERY -->
 
 ## 收录范围
