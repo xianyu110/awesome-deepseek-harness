@@ -53,6 +53,10 @@
 - [awesome-dsh-plugin](https://github.com/xianyu110/awesome-dsh-plugin) - 带自动更新的 DSH 插件目录。
 - [awesome-dsh-plugin-community](https://github.com/xianyu110/awesome-dsh-plugin-community) - 社区维护的插件精选列表。[官网](https://awesome-dsh-plugin.com)
 
+### 安全与访问控制
+
+- [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) - DSH 登录网关（密码门）：首次配置 + 多用户账号，bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS，支持远程访问 dsh。
+
 <!-- BEGIN DEEPSEEK-HARNESS-AUTO-DISCOVERY -->
 ### 自动发现项目
 
