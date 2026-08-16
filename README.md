@@ -57,26 +57,26 @@
 
 以下条目由 GitHub Actions 根据 `dsh-plugin` Topic 或 `deepseek-harness` 搜索结果自动维护。
 
-- [nexu-io/open-design](https://github.com/xianyu110/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landin…（★ 86983；来源：dsh-plugin + deepseek-harness）[官网](https://open-design.ai/)
-- [ysr666/dsh-vision-router](https://github.com/xianyu110/dsh-vision-router) - Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, scree…（★ 155；来源：dsh-plugin）
-- [beancookie/awesome-dsh-plugin](https://github.com/xianyu110/awesome-dsh-plugin-beancookie) - Awesome DeepSeek Harness (DSH) Plugin（★ 33；来源：dsh-plugin + deepseek-harness）[官网](https://beancookie.github.io/awesome-dsh-plugin/)
-- [marc-ko/daily-trending-repo](https://github.com/xianyu110/daily-trending-repo) - This repo will give you the latest trending repo on github and giving you a grasp by sending email via Github Watching Features（★ 30；来源：deepseek-harness）
-- [fufankeji/deepseek-harness-studio](https://github.com/xianyu110/deepseek-harness-studio) - DeepSeek Harness Studio：面向 DeepSeek Harness 的现代化桌面开发环境，内置插件中心、视觉增强与本地 Host。（★ 29；来源：dsh-plugin）[官网](https://deepseekdesktop.com/)
-- [qufei1993/dsh-desktop](https://github.com/xianyu110/dsh-desktop-qufei1993) - 未提供项目描述（★ 17；来源：deepseek-harness）
-- [zhuiyueya/dsh-im-gateway](https://github.com/xianyu110/dsh-im-gateway) - 把 dsh agent 接入微信、飞书等 20+ 聊天平台的聚合网关插件 | Aggregate IM gateway for DeepSeek Harness (dsh): connect your agents to WeChat, Feishu, Telegram, Discord & 20+ chat platforms（★ 13；来源：dsh-plugin + deepseek-harness）
-- [modusensus/dsh-mneme](https://github.com/xianyu110/dsh-mneme) - Mneme · DeepSeek Harness 的跨会话记忆插件 —— 记忆主权跨会话记忆：SQLite + 可编辑 Markdown 双写，autoDream 自我修正（update 决策）+ 失败追踪，完全离线语义检索（本地向量 / 精排 / 聚类）。（★ 13；来源：dsh-plugin）
-- [cosyncing/cosyncing](https://github.com/xianyu110/cosyncing) - Synchronize and Orchestrate agents from CLI to GUI, across desktop to phone.（★ 11；来源：dsh-plugin）[官网](https://cosyncing.com/)
-- [chenw2759-wq/dsh-IDE](https://github.com/xianyu110/dsh-IDE) - dsh-IDE 把 DeepSeek Harness（DSH）网页版升级成一站式 IDE：JupyterLab 式文件树、带语法高亮的代码编辑、多格式预览、Trae 风格红绿 diff 和内置终端，再加上「本地大脑、远程手脚」的 SSH 远程工作区，让 AI 直接在本机操控远程服务器，全程零配置文件改动。（★ 10；来源：dsh-plugin + deepseek-harness）
-- [omdsh-dev/fabric](https://github.com/xianyu110/fabric) - 一种类似MC Fabric的hook处理器（★ 10；来源：dsh-plugin）
-- [billLiao/awesome-dsh-plugin](https://github.com/xianyu110/awesome-dsh-plugin-billliao) - A curated list of plugins for DeepSeek Harness (dsh) — 精选 DeepSeek Harness 插件列表（★ 10；来源：dsh-plugin）
-- [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/xianyu110/awesome-deepseek-harness-plugins) - Curated community plugin directory and live marketplace for DeepSeek Harness.（★ 9；来源：dsh-plugin + deepseek-harness）[官网](https://deepseek1024.com/)
-- [loadingvx/deepseek-harness-workbench-plugin](https://github.com/xianyu110/deepseek-harness-workbench-plugin) - Deepseek-harness-workbench-plugin（★ 6；来源：dsh-plugin + deepseek-harness）[官网](https://www.npmjs.com/package/dsh-workbench-plugin)
-- [sryimnoob123/dsh-starter](https://github.com/xianyu110/dsh-starter) - A beginner-friendly starter for DeepSeek Harness - a minimal Electron desktop client for the official web GUI.（★ 6；来源：deepseek-harness）
-- [Relistencode/dsh-extension-hub](https://github.com/xianyu110/dsh-extension-hub) - Manage DSH（DeepSeek Harness)） skills and MCP servers: CLI + settings-page UI with zh/en i18n, Claude/Codex import, and update checks.（★ 5；来源：dsh-plugin + deepseek-harness）
-- [HarcoChen/dsh-vsc-integration](https://github.com/xianyu110/dsh-vsc-integration) - Deepseek-Harness Vscode Integration（★ 5；来源：dsh-plugin）
-- [nowledge-co/nowledge-mem-deepseek-harness](https://github.com/xianyu110/nowledge-mem-deepseek-harness) - One memory layer for every AI tool and agent, packaged for DeepSeek Harness（★ 5；来源：dsh-plugin）[官网](https://mem.nowledge.co/integrations/deepseek-harness)
-- [hellosky983/dsh-mc-launcher](https://github.com/xianyu110/dsh-mc-launcher) - Minecraft launcher built on DeepSeek Harness: full-screen launcher UI (root slot) with version download, Microsoft device-code login and game launch from the DSH host process. UNO…（★ 4；来源：dsh-plugin + deepseek-harness）
-- [GuoMonth/dsh-multi-tenant](https://github.com/xianyu110/dsh-multi-tenant) - Multi-tenant SaaS extension for DeepSeek Harness (DSH): tenant identity, session isolation, authorization, tenant-aware MCP, and audit.（★ 3；来源：dsh-plugin + deepseek-harness）
+- [Q00/ouroboros](https://github.com/xianyu110/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, st…（★ 5431；来源：dsh-plugin + deepseek-harness）[官网](https://ouroboros.page/)
+- [ZMGID/kivio](https://github.com/xianyu110/kivio) - 未提供项目描述（★ 519；来源：deepseek-harness）[官网](https://kivio-desktop.xyz/)
+- [superdesigndev/treg](https://github.com/xianyu110/treg) - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn（★ 420；来源：dsh-plugin）[官网](https://treg.to/)
+- [dsh-market/dsh-market](https://github.com/xianyu110/dsh-market) - The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场（★ 325；来源：dsh-plugin）[官网](https://dshmarket.com/)
+- [zouyuxuan122/Deepseek-Harness-EAC](https://github.com/xianyu110/Deepseek-Harness-EAC) - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象（★ 305；来源：deepseek-harness）
+- [yigitkonur/awesome-herdr](https://github.com/xianyu110/awesome-herdr) - A curated guide to the Herdr ecosystem: tools, workflows, configs, clients, skills, and integrations.（★ 127；来源：deepseek-harness）
+- [Leslie-SSS/seeWxapkg](https://github.com/xianyu110/seeWxapkg) - 极简实用的微信小程序反编译 Web 工具（★ 83；来源：dsh-plugin）[官网](https://seewxapkg.keepbuild.cn/)
+- [anoslide/dsh-vscode-layout](https://github.com/xianyu110/dsh-vscode-layout) - 把 DeepSeek Harness（dsh）Web 界面改造成 VS Code 式 IDE：三栏布局、文件树、多标签查看器/编辑器、桌面启动器，全部补丁可重放（MIT）（★ 74；来源：deepseek-harness）
+- [bradeGithub/DSH-Plugins-Marketplace](https://github.com/xianyu110/DSH-Plugins-Marketplace) - DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI（★ 70；来源：dsh-plugin + deepseek-harness）
+- [xingj404-lab/dsh-desktop](https://github.com/xianyu110/dsh-desktop) - deepseek harness desktop（★ 55；来源：deepseek-harness）[官网](https://dsh.clawloop.app/)
+- [tencent-connect/dsh-qqbot](https://github.com/xianyu110/dsh-qqbot) - 让 QQ 机器人接入 DeepSeek Harness（dsh）的官方插件（★ 40；来源：dsh-plugin）
+- [whyihaveyou/dsh-suite](https://github.com/xianyu110/dsh-suite) - The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and scaffolder. DSH 插件活目录：每小时刷新，每日兼容实测，内置插件商店与脚手架。（★ 31；来源：dsh-plugin + deepseek-harness）[官网](https://whyihaveyou.github.io/dsh-suite/)
+- [834063245-creator/HoloGram](https://github.com/xianyu110/HoloGram) - 3D code dependency graph generator with built-in LLM agent. Language-agnostic (Python, TypeScript, Rust, Go, Java, C/C++, C#, Ruby, Kotlin, Swift, PHP, Lua). Coupling depth analys…（★ 24；来源：dsh-plugin + deepseek-harness）
+- [QCYTSN/dsh-dafeiyu](https://github.com/xianyu110/dsh-dafeiyu) - Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.（★ 23；来源：dsh-plugin）
+- [THEWOLFWALKER/dsh-notifier](https://github.com/xianyu110/dsh-notifier) - Unified notification push plugin for DeepSeek Harness (DSH): one minimal notify() API, 8 channel adapters (telegram/dingtalk/feishu/wxpusher/pushplus/serverchan/bark/webhook), dua…（★ 14；来源：dsh-plugin + deepseek-harness）
+- [sleep2agi/DeepSeek-Harness-Desktop](https://github.com/xianyu110/DeepSeek-Harness-Desktop-sleep2agi) - Unofficial community desktop shell for the public DeepSeek Harness (dsh) runtime.（★ 14；来源：deepseek-harness）
+- [kejixiaoliang/awesome-dsh-plugins](https://github.com/xianyu110/awesome-dsh-plugins-kejixiaoliang) - DeepSeek Harness (DSH) 插件精选目录 — 14 类 280+ 个社区插件，覆盖 MCP / Skill / TUI / 多 Agent / 上下文记忆 / UI 皮肤，点链接直达仓库。Curated directory of dsh plugins for DeepSeek Harness.（★ 12；来源：dsh-plugin）
+- [yuanqiyibiansheng/DeepSeek-Harness-GUI](https://github.com/xianyu110/DeepSeek-Harness-GUI) - DeepSeek-Harness-GUI（★ 12；来源：deepseek-harness）
+- [omdsh-dev/dsh-office](https://github.com/xianyu110/dsh-office) - 办公三件套！Office document tools for DeepSeek Harness (dsh): generate, read, and edit spreadsheets (.xlsx), PDFs, and presentations (.pptx).（★ 7；来源：dsh-plugin）
+- [Acidmoon/DIzzy-DSH](https://github.com/xianyu110/DIzzy-DSH) - My DSH plugins（★ 6；来源：dsh-plugin + deepseek-harness）
 <!-- END DEEPSEEK-HARNESS-AUTO-DISCOVERY -->
 
 ## 收录范围
