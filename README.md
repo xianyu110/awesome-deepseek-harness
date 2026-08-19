@@ -37,6 +37,7 @@
 
 ### 工作流与开发集成
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - 完整 reverse-skill（85 个 SKILL.md）的 DeepSeek Harness 插件：逆向工程、授权渗透测试与安全研究的技能路由包。Install: `dsh plugin add github:dhicoc/dsh-reverse-skill`
+- [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 88 个研究、社交情报、营销与商业工作流 Agent Skills；通过原生 `dsh.bundle` 挂载完整技能包，也可按项目安装 multi-source-search。Install: `dsh plugin --profile web add github:sandbaseai/sandbase-skills`
 
 - [dsh-agent-teams](https://github.com/xianyu110/dsh-agent-teams) - Agent Teams 多智能体协作插件。
 - [dsh-at-file](https://github.com/xianyu110/dsh-at-file) - 类 Codex 的 `@file` 文件引用。
