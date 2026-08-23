@@ -121,6 +121,33 @@ function extractRepoLinks(readme) {
   return found;
 }
 
+async function canonicalizeAutoBlock(readme) {
+  const markerPattern = new RegExp(`${START_MARKER}[\\s\\S]*?${END_MARKER}`);
+  const match = readme.match(markerPattern);
+  if (!match) return { readme, replaced: 0 };
+
+  const block = match[0];
+  const linkPattern = new RegExp(`https://github\\.com/${TARGET_OWNER}/([A-Za-z0-9_.-]+)`, "g");
+  const names = [...block.matchAll(linkPattern)].map((entry) => entry[1]);
+  let nextBlock = block;
+  let replaced = 0;
+
+  for (const name of new Set(names)) {
+    const repo = await request(`/repos/${TARGET_OWNER}/${name}`, {}, { allow404: true });
+    const upstream = repo?.fork ? repo.parent?.full_name : null;
+    if (!upstream || sameRepo(upstream, `${TARGET_OWNER}/${name}`)) continue;
+
+    const currentUrl = `https://github.com/${TARGET_OWNER}/${name}`;
+    const upstreamUrl = `https://github.com/${upstream}`;
+    if (nextBlock.includes(currentUrl)) {
+      nextBlock = nextBlock.replaceAll(currentUrl, upstreamUrl);
+      replaced += 1;
+    }
+  }
+
+  return { readme: readme.replace(block, nextBlock), replaced };
+}
+
 function renderAutoBlock(entries) {
   const lines = entries.length
     ? entries.map((entry) => {
@@ -154,7 +181,9 @@ async function updateReadme(readme, entries) {
 }
 
 async function main() {
-  const readme = await readFile(README_PATH, "utf8");
+  const originalReadme = await readFile(README_PATH, "utf8");
+  const canonicalized = await canonicalizeAutoBlock(originalReadme);
+  const readme = canonicalized.readme;
   const knownRepos = extractRepoLinks(readme);
   const queries = [
     ["topic:dsh-plugin", "dsh-plugin"],
@@ -196,6 +225,7 @@ async function main() {
   console.log(
     JSON.stringify({
       dryRun: DRY_RUN,
+      canonicalizedLinks: canonicalized.replaced,
       searchCandidates: candidates.size,
       newCandidates: newCandidates.length,
     }),
