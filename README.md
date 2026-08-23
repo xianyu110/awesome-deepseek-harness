@@ -90,9 +90,9 @@
 
 ## 自动化
 
-`.github/workflows/discover-and-fork.yml` 每 30 分钟搜索 `dsh-plugin` 和 `deepseek-harness`，自动 Fork 新项目、同步目录中的相关 Fork，并通过同一个 PR 分支更新本 README。PR 创建后会请求 GitHub 自动合并（Squash）；每次运行最多处理 20 个新项目，避免搜索结果异常时产生大量 Fork。
+`.github/workflows/discover-and-fork.yml` 默认仅支持手动运行：搜索 `dsh-plugin` 和 `deepseek-harness`，把新发现的仓库直接链接到本 README，并通过同一个 PR 分支更新。每次运行最多处理 5 个新项目，避免搜索结果异常时产生大量变更。
 
-请在本仓库的 Actions secrets 中配置 `FORK_TOKEN`，并在仓库 Settings → General → Pull Requests 开启 `Allow auto-merge`。Fine-grained Token 需要允许访问所有公开仓库，并授予创建 Fork 所需的 `Administration: write`、`Contents: read`，以及本仓库的 `Contents: write` 和 `Pull requests: write`；不要把 Token 写入代码或日志。具体权限要求可参考 [GitHub Fork API 文档](https://docs.github.com/en/rest/repos/forks) 和 [同步 Fork API 文档](https://docs.github.com/en/rest/branches/branches#sync-a-fork-branch-with-the-upstream-repository)。
+运行 workflow 时使用 GitHub Actions 自带的 `GITHUB_TOKEN`，无需额外配置个人 Token；仓库需要允许 Actions 写入内容和创建 Pull Request。不要把 Token 写入代码或日志。
 
 ## 贡献
 
