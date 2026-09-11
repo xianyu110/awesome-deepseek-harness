@@ -48,6 +48,7 @@
 
 ### 资料与生态目录
 
+- [dsplugin.app](https://dsplugin.app/) - 非官方社区 DeepSeek Harness 插件目录 / 注册表；安装前请查看来源与 Manifest/`dsh.bundle`。[官网](https://dsplugin.app/)
 - [dsh-handbook](https://github.com/xianyu110/dsh-handbook) - DeepSeek Harness 中文/英文深度手册。
 - [awesome-deepseek-harness-0xsline](https://github.com/xianyu110/awesome-deepseek-harness-0xsline) - DSH 生态、插件和基础设施目录。[官网](https://deepseekdocs.com/)
 - [awesome-dsh-plugins](https://github.com/xianyu110/awesome-dsh-plugins) - 自动扫描插件候选的 Radar 目录。
