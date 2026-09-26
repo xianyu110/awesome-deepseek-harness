@@ -27,6 +27,7 @@
 - [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) - 为 DeepSeek Harness 生态打造的原生桌面应用，支持自动启动和管理本地服务、系统托盘驻留，适配 macOS 和 Windows。
 - [oh-dsh](https://github.com/xianyu110/oh-dsh) - TUI、桌面端和 Web UI 一体化社区发行版。
 - [whale-girl](https://github.com/xianyu110/whale-girl) - DSH Web GUI 桌面宠物。
+- [dsh-matrix](https://github.com/weibaohui/dsh-matrix) - 黑客帝国数字雨：对话窗口铺上经典的绿色字符雨背景——雨柱倾泻而下、白炽雨头绿身拖尾，agent 正在生成的 token 原文实时掺进雨里；透明度/速度/密度/字号/配色全部可调，雨势跟随 agent 活跃度起伏。
 
 ### 视觉、浏览与搜索
 
