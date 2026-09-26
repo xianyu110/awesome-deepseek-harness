@@ -45,6 +45,7 @@
 - [dsh-github](https://github.com/xianyu110/dsh-github) - GitHub PR、Issue 和后台审查，写操作需要人工批准。
 - [deepseek-harness-acp](https://github.com/xianyu110/deepseek-harness-acp) - DeepSeek Harness 的 ACP 服务实现。
 - [thinkany-ai/dscode](https://github.com/thinkany-ai/dscode) - 本地优先的多模型编码 Agent，默认使用 DeepSeek，并支持 Codex、OpenAI、Anthropic、OpenRouter 等。
+- [skills-management](https://github.com/weibaohui/skills-management) - 技能市场：一个页面管理本机所有 coding agent 的技能，一键收编进 DSH 用户库；内置 6600+ 技能市场，支持注入开销（≈token）统计与模型可见性治理。
 
 ### 资料与生态目录
 
