@@ -27,6 +27,7 @@
 - [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) - 为 DeepSeek Harness 生态打造的原生桌面应用，支持自动启动和管理本地服务、系统托盘驻留，适配 macOS 和 Windows。
 - [oh-dsh](https://github.com/xianyu110/oh-dsh) - TUI、桌面端和 Web UI 一体化社区发行版。
 - [whale-girl](https://github.com/xianyu110/whale-girl) - DSH Web GUI 桌面宠物。
+- [dsh-gaokao](https://github.com/weibaohui/dsh-gaokao) - 梦回高三：桌面小黑板高考倒计时（双击收成竖条），AI 干活时随机抽背知识点卡；Markdown 开放知识卡框架，按学科/分类放 md 即自动加载，支持导入自己的知识库。
 
 ### 视觉、浏览与搜索
 
