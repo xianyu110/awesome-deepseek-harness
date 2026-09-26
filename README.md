@@ -45,6 +45,7 @@
 - [dsh-github](https://github.com/xianyu110/dsh-github) - GitHub PR、Issue 和后台审查，写操作需要人工批准。
 - [deepseek-harness-acp](https://github.com/xianyu110/deepseek-harness-acp) - DeepSeek Harness 的 ACP 服务实现。
 - [thinkany-ai/dscode](https://github.com/thinkany-ai/dscode) - 本地优先的多模型编码 Agent，默认使用 DeepSeek，并支持 Codex、OpenAI、Anthropic、OpenRouter 等。
+- [context-razor](https://github.com/weibaohui/context-razor) - 上下文剃刀：把当前会话上下文逐条列出（角色/预览/≈token 估算），超阈值标红，勾选后不经 LLM 精确裁剪，删了什么一目了然。
 
 ### 资料与生态目录
 
