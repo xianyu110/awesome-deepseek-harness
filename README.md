@@ -57,6 +57,7 @@
 ### 安全与访问控制
 
 - [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) - DSH 登录网关（密码门）：首次配置 + 多用户账号，bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS，支持远程访问 dsh。
+- [user-management](https://github.com/weibaohui/user-management) - 用户管理：给 dsh web 加登录门禁，未登录访问弹登录/注册页，首个注册者自动成为管理员；管理员可管理用户/角色，带登录与访问审计。
 
 <!-- BEGIN DEEPSEEK-HARNESS-AUTO-DISCOVERY -->
 ### 自动发现项目
