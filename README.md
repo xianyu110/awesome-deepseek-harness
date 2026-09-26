@@ -45,6 +45,7 @@
 - [dsh-github](https://github.com/xianyu110/dsh-github) - GitHub PR、Issue 和后台审查，写操作需要人工批准。
 - [deepseek-harness-acp](https://github.com/xianyu110/deepseek-harness-acp) - DeepSeek Harness 的 ACP 服务实现。
 - [thinkany-ai/dscode](https://github.com/thinkany-ai/dscode) - 本地优先的多模型编码 Agent，默认使用 DeepSeek，并支持 Codex、OpenAI、Anthropic、OpenRouter 等。
+- [dsh-flow](https://github.com/weibaohui/dsh-flow) - 执行流程图：把当前会话的执行过程画成纵向节点流（回合/用户/助手/工具/审批/重试/压缩），SSE 实时追加，会话执行到哪图就画到哪，自动跟随滚动。
 
 ### 资料与生态目录
 
