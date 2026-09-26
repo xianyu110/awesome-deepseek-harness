@@ -27,6 +27,7 @@
 - [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) - 为 DeepSeek Harness 生态打造的原生桌面应用，支持自动启动和管理本地服务、系统托盘驻留，适配 macOS 和 Windows。
 - [oh-dsh](https://github.com/xianyu110/oh-dsh) - TUI、桌面端和 Web UI 一体化社区发行版。
 - [whale-girl](https://github.com/xianyu110/whale-girl) - DSH Web GUI 桌面宠物。
+- [dsh-file-share](https://github.com/weibaohui/dsh-file-share) - 会话工作区文件管理：在对话区加「文件」tab，浏览当前会话工作区的目录树并就地管理（上传/下载/新建文件夹/改名/删除/搜索），文件可 @ 进对话框给 agent 处理。
 
 ### 视觉、浏览与搜索
 
