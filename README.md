@@ -45,6 +45,7 @@
 - [dsh-github](https://github.com/xianyu110/dsh-github) - GitHub PR、Issue 和后台审查，写操作需要人工批准。
 - [deepseek-harness-acp](https://github.com/xianyu110/deepseek-harness-acp) - DeepSeek Harness 的 ACP 服务实现。
 - [thinkany-ai/dscode](https://github.com/thinkany-ai/dscode) - 本地优先的多模型编码 Agent，默认使用 DeepSeek，并支持 Codex、OpenAI、Anthropic、OpenRouter 等。
+- [dsh-fde-tools](https://github.com/weibaohui/dsh-fde-tools) - FDE 工具箱全家桶：安装一个插件带上一批常用 dsh 插件（代码仓库 / 挂载盘 / 知识库 / 定时任务 / 自动续跑 / 界面微调 / 自动复盘 / 文件管理 / 智能标题 / 任务看板 / 插件市场 / 上下文 / IM 接入 / 侧栏增强），面板看状态、一键补装。
 
 ### 资料与生态目录
 
