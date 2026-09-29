@@ -27,6 +27,7 @@
 - [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) - 为 DeepSeek Harness 生态打造的原生桌面应用，支持自动启动和管理本地服务、系统托盘驻留，适配 macOS 和 Windows。
 - [oh-dsh](https://github.com/xianyu110/oh-dsh) - TUI、桌面端和 Web UI 一体化社区发行版。
 - [whale-girl](https://github.com/xianyu110/whale-girl) - DSH Web GUI 桌面宠物。
+- [dsh-kite](https://github.com/weibaohui/dsh-kite) - 放风筝引擎：agent 编程时屏幕上放一只动画风筝——token 越多事件越密风筝飞得越高，随风漂移摆动，一根线牵在窗口底边；潍坊系框架卡组（沙燕/金鱼/蝴蝶/八卦/龙头等，硬翅软翅板式立体），形状×图案×配色全是可替换数据配置，支持把用户图片糊上风筝面、贴图随风筝姿态实时仿射变换。
 
 ### 视觉、浏览与搜索
 
