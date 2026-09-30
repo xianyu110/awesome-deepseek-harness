@@ -57,7 +57,7 @@
 ### 安全与访问控制
 
 - [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) - DSH 登录网关（密码门）：首次配置 + 多用户账号，bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS，支持远程访问 dsh。
-- [sofagent](https://github.com/KongFangXun/sofagent) - 提交时审计 Harness：24 条 git-diff 审计规则拦截密钥泄漏与越界修改，HMAC 链式防篡改本地审计史 + 快照回滚；9 个 DSH 插件 + MCP server（80+ 工具）。
+- [sofagent](https://github.com/KongFangXun/sofagent) - 提交时审计 Harness：25 条 git-diff 审计规则拦截密钥泄漏与越界修改，HMAC 链式防篡改本地审计史 + 快照回滚；Cordis 插件家族 + MCP server（大规模工具集）。
 
 <!-- BEGIN DEEPSEEK-HARNESS-AUTO-DISCOVERY -->
 ### 自动发现项目
