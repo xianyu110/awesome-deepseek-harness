@@ -45,6 +45,7 @@
 - [dsh-github](https://github.com/xianyu110/dsh-github) - GitHub PR、Issue 和后台审查，写操作需要人工批准。
 - [deepseek-harness-acp](https://github.com/xianyu110/deepseek-harness-acp) - DeepSeek Harness 的 ACP 服务实现。
 - [thinkany-ai/dscode](https://github.com/thinkany-ai/dscode) - 本地优先的多模型编码 Agent，默认使用 DeepSeek，并支持 Codex、OpenAI、Anthropic、OpenRouter 等。
+- [dsh-sieve](https://github.com/Sev7eEn7/sieve) — 为 DSH 0.2.1-alpha.1 过滤工具输出、裁剪陈旧上下文并按需披露技能。
 
 ### 资料与生态目录
 
