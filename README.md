@@ -44,6 +44,7 @@
 - [dsh-auto-continue](https://github.com/xianyu110/dsh-auto-continue) - 请求中断后自动发送“继续”。
 - [dsh-github](https://github.com/xianyu110/dsh-github) - GitHub PR、Issue 和后台审查，写操作需要人工批准。
 - [deepseek-harness-acp](https://github.com/xianyu110/deepseek-harness-acp) - DeepSeek Harness 的 ACP 服务实现。
+- [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) - 保留原话来源、项目归属与修订历史的 DSH 文字记忆插件（公开测试版）。 Install: `dsh plugin --profile desktop add solopup-memory@0.21.0-beta.2 --ignore-scripts`
 - [thinkany-ai/dscode](https://github.com/thinkany-ai/dscode) - 本地优先的多模型编码 Agent，默认使用 DeepSeek，并支持 Codex、OpenAI、Anthropic、OpenRouter 等。
 
 ### 资料与生态目录
