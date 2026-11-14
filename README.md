@@ -50,6 +50,7 @@
 
 - [dsh-handbook](https://github.com/xianyu110/dsh-handbook) - DeepSeek Harness 中文/英文深度手册。
 - [awesome-deepseek-harness-0xsline](https://github.com/xianyu110/awesome-deepseek-harness-0xsline) - DSH 生态、插件和基础设施目录。[官网](https://deepseekdocs.com/)
+- [DSH Plugin Store](https://github.com/sandbaseai/dsh-plugin-store) - DeepSeek Harness 设置页的插件商店，支持搜索、筛选、安装和管理社区插件。
 - [awesome-dsh-plugins](https://github.com/xianyu110/awesome-dsh-plugins) - 自动扫描插件候选的 Radar 目录。
 - [awesome-dsh-plugin](https://github.com/xianyu110/awesome-dsh-plugin) - 带自动更新的 DSH 插件目录。
 - [awesome-dsh-plugin-community](https://github.com/xianyu110/awesome-dsh-plugin-community) - 社区维护的插件精选列表。[官网](https://awesome-dsh-plugin.com)
